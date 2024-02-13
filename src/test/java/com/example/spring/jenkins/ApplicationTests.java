@@ -14,7 +14,7 @@ class ApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Testcase is executing...");
-		logger.info("Testcase is executing second time...");
+		logger.info("Testcase is executing second time for pipeline...");
 		assertEquals(true, true);
 
 	}
